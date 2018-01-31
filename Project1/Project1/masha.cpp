@@ -20,13 +20,13 @@ void array3(int arr3[], int arr2[], int arr1[], int size)
 		arr3[i + 1] = arr2[i];
 	}
 }
-int main()
-{
-	int arr1[Size], int arr2[Size], int arr3[Size];
-	for (int i = 0; i < Size; i++)
-	{
-		array3(arr3, arr2, arr1, Size);
-	}
-
-}
+//int main()
+//{
+//	int arr1[Size], int arr2[Size], int arr3[Size];
+//	for (int i = 0; i < Size; i++)
+//	{
+//		array3(arr3, arr2, arr1, Size);
+//	}
+//
+//}
 
