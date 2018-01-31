@@ -1,5 +1,5 @@
 
-#include "stdafx.h"
+//#include "stdafx.h"
 #include<iostream>
 #include<ctime>
 #include<iomanip>
@@ -20,7 +20,6 @@ void array3(int arr3[], int arr2[], int arr1[], int size)
 		arr3[i + 1] = arr2[i];
 	}
 }
-
 int main()
 {
 	int arr1[Size], int arr2[Size], int arr3[Size];
